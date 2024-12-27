@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kim\\Desktop\\WPF_DB_PRACTICE\\DBconn\\WpfDBConn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20EAF34A-2D47-468F-901B-342EB665459E}|WpfDBConn.csproj|c:\\users\\kim\\desktop\\wpf_db_practice\\dbconn\\wpfdbconn\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20EAF34A-2D47-468F-901B-342EB665459E}|WpfDBConn.csproj|solutionrelative:viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20EAF34A-2D47-468F-901B-342EB665459E}|WpfDBConn.csproj|c:\\users\\kim\\desktop\\wpf_db_practice\\dbconn\\wpfdbconn\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20EAF34A-2D47-468F-901B-342EB665459E}|WpfDBConn.csproj|solutionrelative:commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20EAF34A-2D47-468F-901B-342EB665459E}|WpfDBConn.csproj|c:\\users\\kim\\desktop\\wpf_db_practice\\dbconn\\wpfdbconn\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20EAF34A-2D47-468F-901B-342EB665459E}|WpfDBConn.csproj|solutionrelative:repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20EAF34A-2D47-468F-901B-342EB665459E}|WpfDBConn.csproj|c:\\users\\kim\\desktop\\wpf_db_practice\\dbconn\\wpfdbconn\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20EAF34A-2D47-468F-901B-342EB665459E}|WpfDBConn.csproj|solutionrelative:repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20EAF34A-2D47-468F-901B-342EB665459E}|WpfDBConn.csproj|c:\\users\\kim\\desktop\\wpf_db_practice\\dbconn\\wpfdbconn\\repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20EAF34A-2D47-468F-901B-342EB665459E}|WpfDBConn.csproj|solutionrelative:repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20EAF34A-2D47-468F-901B-342EB665459E}|WpfDBConn.csproj|c:\\users\\kim\\desktop\\wpf_db_practice\\dbconn\\wpfdbconn\\wpfdbconn.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{20EAF34A-2D47-468F-901B-342EB665459E}|WpfDBConn.csproj|solutionrelative:wpfdbconn.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20EAF34A-2D47-468F-901B-342EB665459E}|WpfDBConn.csproj|c:\\users\\kim\\desktop\\wpf_db_practice\\dbconn\\wpfdbconn\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{20EAF34A-2D47-468F-901B-342EB665459E}|WpfDBConn.csproj|solutionrelative:mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kim\\Desktop\\practice\\DBconn\\CommonLib\\Database\\SqlParameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kim\\Desktop\\practice\\DBconn\\CommonLib\\Database\\MySqlDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\kim\\Desktop\\WPF_DB_PRACTICE\\DBconn\\WpfDBConn\\Commands\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Commands\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\kim\\Desktop\\WPF_DB_PRACTICE\\DBconn\\WpfDBConn\\Commands\\RelayCommand.cs",
+              "RelativeToolTip": "Commands\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T04:27:50.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\kim\\Desktop\\WPF_DB_PRACTICE\\DBconn\\WpfDBConn\\Repositories\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "Repositories\\RepositoryBase.cs",
+              "ToolTip": "C:\\Users\\kim\\Desktop\\WPF_DB_PRACTICE\\DBconn\\WpfDBConn\\Repositories\\RepositoryBase.cs",
+              "RelativeToolTip": "Repositories\\RepositoryBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T04:22:17.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kim\\Desktop\\WPF_DB_PRACTICE\\DBconn\\WpfDBConn\\Repositories\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IAccountRepository.cs",
+              "ToolTip": "C:\\Users\\kim\\Desktop\\WPF_DB_PRACTICE\\DBconn\\WpfDBConn\\Repositories\\IAccountRepository.cs",
+              "RelativeToolTip": "Repositories\\IAccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T04:22:15.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kim\\Desktop\\WPF_DB_PRACTICE\\DBconn\\WpfDBConn\\Repositories\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\AccountRepository.cs",
+              "ToolTip": "C:\\Users\\kim\\Desktop\\WPF_DB_PRACTICE\\DBconn\\WpfDBConn\\Repositories\\AccountRepository.cs",
+              "RelativeToolTip": "Repositories\\AccountRepository.cs",
+              "ViewState": "AgIAAAgAAACAlZmZmVkuwBIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T04:22:04.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SqlParameter.cs",
+              "DocumentMoniker": "C:\\Users\\kim\\Desktop\\practice\\DBconn\\CommonLib\\Database\\SqlParameter.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\practice\\DBconn\\CommonLib\\Database\\SqlParameter.cs",
+              "ToolTip": "C:\\Users\\kim\\Desktop\\practice\\DBconn\\CommonLib\\Database\\SqlParameter.cs",
+              "RelativeToolTip": "..\\..\\..\\practice\\DBconn\\CommonLib\\Database\\SqlParameter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T04:14:31.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MySqlDb.cs",
+              "DocumentMoniker": "C:\\Users\\kim\\Desktop\\practice\\DBconn\\CommonLib\\Database\\MySqlDb.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\practice\\DBconn\\CommonLib\\Database\\MySqlDb.cs",
+              "ToolTip": "C:\\Users\\kim\\Desktop\\practice\\DBconn\\CommonLib\\Database\\MySqlDb.cs",
+              "RelativeToolTip": "..\\..\\..\\practice\\DBconn\\CommonLib\\Database\\MySqlDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T04:12:23.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAGsIAAAAAAAAAAD4v34IAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-12-26T07:05:33.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WpfDBConn.csproj",
+              "DocumentMoniker": "C:\\Users\\kim\\Desktop\\WPF_DB_PRACTICE\\DBconn\\WpfDBConn\\WpfDBConn.csproj",
+              "RelativeDocumentMoniker": "WpfDBConn.csproj",
+              "ToolTip": "C:\\Users\\kim\\Desktop\\WPF_DB_PRACTICE\\DBconn\\WpfDBConn\\WpfDBConn.csproj",
+              "RelativeToolTip": "WpfDBConn.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-26T06:51:12.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kim\\Desktop\\WPF_DB_PRACTICE\\DBconn\\WpfDBConn\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\kim\\Desktop\\WPF_DB_PRACTICE\\DBconn\\WpfDBConn\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAAEAAACAmZmZmRkWwBcAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T06:50:47.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainView.xaml",
+              "DocumentMoniker": "C:\\Users\\kim\\Desktop\\WPF_DB_PRACTICE\\DBconn\\WpfDBConn\\MainView.xaml",
+              "RelativeDocumentMoniker": "MainView.xaml",
+              "ToolTip": "C:\\Users\\kim\\Desktop\\WPF_DB_PRACTICE\\DBconn\\WpfDBConn\\MainView.xaml",
+              "RelativeToolTip": "MainView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-26T06:49:21.563Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
